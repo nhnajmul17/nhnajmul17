@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋 I'm Najmul Hasan
+I am an enthusiastic JavaScript developer with knowing some framework for the frontend and the backend. I know Basic Python but basically a MERN Stack developer. I always focus on learning new technology. I have completed my graduation in Electrical and Electronic Engineering from Eastern University. I have done some projects with React, MongoDB, Express, Bootstrap, firebase.
+
 
 <!--
 **nhnajmul17/nhnajmul17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+sd
