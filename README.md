@@ -1,7 +1,7 @@
 <p align="center">Hi there 👋 I'm Najmul Hasan</p>
-<p align="center">I am passionate about ✨ JavaScript, React Js,NodeJs, ExpressJs ✨</p>
+<p align="center">I am passionate about ✨ JavaScript, React Js, NodeJs and ExpressJs ✨</p>
 
-I am an enthusiastic __JavaScript__ developer with knowing some framework for the frontend and the backend. 
+I am an enthusiastic __JavaScript__ developer with knowing some Framework for the frontend and the backend. 
 Though I know basic of python however MERN Stack development grabbed my focus and I have build 3 big Mern stack projects using __React, MongoDB, Expressjs,__ Bootstrap, Firebase.
 
 
