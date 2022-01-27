@@ -1,6 +1,7 @@
 Hi there 👋 I'm Najmul Hasan
 
-I am an enthusiastic JavaScript developer with knowing some framework for the frontend and the backend. I know Basic Python but basically a MERN Stack developer. I always focus on learning new technology. I have completed my graduation in Electrical and Electronic Engineering from Eastern University. I have done some projects with React, MongoDB, Express, Bootstrap, firebase.
+I am an enthusiastic _JavaScript_ developer with knowing some framework for the frontend and the backend. 
+Though I know basic of python however MERN Stack development grabbed focus and I have build 3 big Mern stack projects using _React, MongoDB, Expressjs,_ Bootstrap, firebase.
 
 
 <!--
