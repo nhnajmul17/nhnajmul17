@@ -1,7 +1,7 @@
-Hi there 👋 I'm Najmul Hasan
+<p align="center">Hi there 👋 I'm Najmul Hasan</p>
 
 I am an enthusiastic __JavaScript__ developer with knowing some framework for the frontend and the backend. 
-Though I know basic of python however MERN Stack development grabbed focus and I have build 3 big Mern stack projects using __React, MongoDB, Expressjs,__ Bootstrap, firebase.
+Though I know basic of python however MERN Stack development grabbed my focus and I have build 3 big Mern stack projects using __React, MongoDB, Expressjs,__ Bootstrap, Firebase.
 
 
 <!--
